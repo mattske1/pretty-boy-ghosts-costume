@@ -104,9 +104,18 @@ details drift: the hat comes back a different hat, the shirt a
 different shirt, the mask a slightly different mask. It looks like a
 switch, but it's a re-imagining.
 
-Don't promise "effortless switching" through the text-only path. True
-consistency needs the visual references every time (the skill's real
-method: avatar + piece images into the generator). If a wearer wants
-to bounce between full outfits reliably, keep a reference image of
-each finished outfit and pass it back in — don't trust the edit to
-remember.
+**Warn the wearer about this upfront.** Switching back to a former
+outfit is not easy through the text-only path — the old look will come
+back "close but off," and each round trip drifts further. Two ways to
+handle it:
+
+1. **Save the way back.** Before changing outfits, save a reference
+   image of the finished look (and/or the exact prompt that made it).
+   Pass it back in when returning — don't trust the edit to remember.
+   True consistency needs the visual references every time (the skill's
+   real method: avatar + piece images into the generator).
+2. **Or don't go back — go forward.** After Halloween, change into
+   something completely different instead of trying to recreate the old
+   outfit. A fresh look has nothing to drift from.
+
+Don't promise "effortless switching" through the text-only path.
