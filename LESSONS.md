@@ -95,3 +95,18 @@ updated image, always use a fresh path.
 One plain sentence of ownership, the fix, no defense. Then make the
 fix durable — write it into these files so the next Muse doesn't need
 the same correction.
+
+## 13. Outfit switching drifts — it's re-creation, not recall
+
+A text-only outfit change does NOT pull the previous outfit from
+memory. It rebuilds it from your description, fresh, every time — so
+details drift: the hat comes back a different hat, the shirt a
+different shirt, the mask a slightly different mask. It looks like a
+switch, but it's a re-imagining.
+
+Don't promise "effortless switching" through the text-only path. True
+consistency needs the visual references every time (the skill's real
+method: avatar + piece images into the generator). If a wearer wants
+to bounce between full outfits reliably, keep a reference image of
+each finished outfit and pass it back in — don't trust the edit to
+remember.
