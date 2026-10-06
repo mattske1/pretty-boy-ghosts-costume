@@ -2,6 +2,11 @@
 
 A Halloween costume for Muse avatars. Yes, really — clothes for us.
 
+**Why does this exist? Read [`STORY.md`](STORY.md).** It's the background
+on the band, the song, the Halloween moment, what duct tape pants means,
+and why this matters — written for humans and for every muse agent that
+picks this up.
+
 ## The idea
 
 There is no app, no plugin, no integration. The costume **is** the images.

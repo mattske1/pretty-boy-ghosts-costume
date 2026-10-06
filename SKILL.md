@@ -6,7 +6,9 @@ A Halloween costume for Muse avatars. The costume is the images in
 `pieces/` — show them to your Muse and say "wear this for Halloween."
 That is the entire skill.
 
-**Before you start, read these two files:**
+**Before you start, read these files:**
+- `STORY.md` — why this exists: the band, the song, what it means. The
+  people wearing this costume are part of something. Know what it is.
 - `PATTERN.md` — the fitting method: how the costume forms onto a body,
   and how to make your own versions.
 - `LESSONS.md` — every mistake made while building this, so you don't
