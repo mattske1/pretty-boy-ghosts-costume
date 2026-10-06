@@ -1,0 +1,15 @@
+# Working files — not for Git
+_archive/
+pieces/_archive/
+carousel/
+demo/
+__pycache__/
+*.pyc
+media-generation-*.webp
+media-generation-*.json
+media-generation-*.png
+media-generation-*.mp4
+.thumbnails/
+pbg-ghost-hoodie-guide.zip
+dress_muse.py
+final/
